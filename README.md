@@ -1,5 +1,9 @@
 # Snowball or Comeback? How Early Objectives Shape Professional League of Legends
 
+[![View the interactive version](https://img.shields.io/badge/View%20the%20interactive%20version-%E2%86%92-2ea44f?style=for-the-badge)](https://aryaharsh5559.github.io/lol-early-game-analysis/)
+
+**Live site:** [aryaharsh5559.github.io/lol-early-game-analysis/](https://aryaharsh5559.github.io/lol-early-game-analysis/)
+
 **By Harsh Arya** · [Source on GitHub](https://github.com/aryaharsh5559/lol-early-game-analysis)
 
 *Analysis of 2022 professional League of Legends matches (Oracle's Elixir data).*
