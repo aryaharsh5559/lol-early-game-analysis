@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.csv
+AGENT_HANDOFF.md
+.ipynb_checkpoints/
+analysis.html
+notebook.pdf
